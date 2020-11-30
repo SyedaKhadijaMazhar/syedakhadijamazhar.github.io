@@ -1,0 +1,37 @@
+@charset "utf-8";
+/* CSS Document */
+
+body
+{ background-image:url(../images/WallPaper1.jpg);
+
+
+}
+h1
+{color:#FFCC66;
+font:Arial, Helvetica, sans-serif;
+font-size:90px;
+text-align:right;
+right:140px;
+position:relative;
+}
+p
+{
+color:#FFFFFF;
+font:Arial, Helvetica, sans-serif;
+font-size:24px;
+}
+table
+{
+margin-top:65px;
+}
+h3
+{
+color:#FFCC66;
+margin-left:10px;
+font:Arial, Helvetica, sans-serif;
+font-size:40px;
+position:relative;
+top:55px;
+}
+
+

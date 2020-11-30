@@ -1,0 +1,21 @@
+@charset "utf-8";
+/* CSS Document */
+body
+{background-image:url(../images/lam2.jpg);
+overflow-x:hidden;
+}
+h1
+{
+color:#FFCC33;
+font:Arial, Helvetica, sans-serif;
+font-size:90px;
+text-align:right;
+right:800px;
+position:relative;
+bottom:450px;
+
+}
+hr
+{
+background-color:#000000;
+}
